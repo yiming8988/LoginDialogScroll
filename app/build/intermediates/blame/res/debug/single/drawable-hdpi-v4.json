@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\GitHub\\LoginDialogScroll\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\GitHub\\LoginDialogScroll\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\GitHub\\LoginDialogScroll\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_sina.png",
+        "source": "F:\\GitHub\\LoginDialogScroll\\app\\src\\main\\res\\drawable-hdpi\\icon_sina.png"
+    },
+    {
+        "merged": "F:\\GitHub\\LoginDialogScroll\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_greed.png",
+        "source": "F:\\GitHub\\LoginDialogScroll\\app\\src\\main\\res\\drawable-hdpi\\title_greed.png"
+    },
+    {
+        "merged": "F:\\GitHub\\LoginDialogScroll\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_close.png",
+        "source": "F:\\GitHub\\LoginDialogScroll\\app\\src\\main\\res\\drawable-hdpi\\btn_close.png"
+    },
+    {
+        "merged": "F:\\GitHub\\LoginDialogScroll\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_more.png",
+        "source": "F:\\GitHub\\LoginDialogScroll\\app\\src\\main\\res\\drawable-hdpi\\btn_more.png"
+    },
+    {
+        "merged": "F:\\GitHub\\LoginDialogScroll\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_shape.xml",
+        "source": "F:\\GitHub\\LoginDialogScroll\\app\\src\\main\\res\\drawable-hdpi\\edittext_shape.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\LoginDialogScroll\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_qq.png",
+        "source": "F:\\GitHub\\LoginDialogScroll\\app\\src\\main\\res\\drawable-hdpi\\icon_qq.png"
+    },
+    {
+        "merged": "F:\\GitHub\\LoginDialogScroll\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_user.png",
+        "source": "F:\\GitHub\\LoginDialogScroll\\app\\src\\main\\res\\drawable-hdpi\\btn_user.png"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\GitHub\\LoginDialogScroll\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\heard_hint_bg.png",
+        "source": "F:\\GitHub\\LoginDialogScroll\\app\\src\\main\\res\\drawable-nodpi\\heard_hint_bg.png"
+    },
+    {
+        "merged": "F:\\GitHub\\LoginDialogScroll\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\btn_bule_press.png",
+        "source": "F:\\GitHub\\LoginDialogScroll\\app\\src\\main\\res\\drawable-nodpi\\btn_bule_press.png"
+    },
+    {
+        "merged": "F:\\GitHub\\LoginDialogScroll\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\btn_bule_normal.png",
+        "source": "F:\\GitHub\\LoginDialogScroll\\app\\src\\main\\res\\drawable-nodpi\\btn_bule_normal.png"
+    },
+    {
+        "merged": "F:\\GitHub\\LoginDialogScroll\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\btn_red_normal.png",
+        "source": "F:\\GitHub\\LoginDialogScroll\\app\\src\\main\\res\\drawable-nodpi\\btn_red_normal.png"
+    },
+    {
+        "merged": "F:\\GitHub\\LoginDialogScroll\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\btn_red_press.png",
+        "source": "F:\\GitHub\\LoginDialogScroll\\app\\src\\main\\res\\drawable-nodpi\\btn_red_press.png"
+    }
+]

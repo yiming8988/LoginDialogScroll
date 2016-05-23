@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\GitHub\\LoginDialogScroll\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\GitHub\\LoginDialogScroll\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\LoginDialogScroll\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_login.xml",
+        "source": "F:\\GitHub\\LoginDialogScroll\\app\\src\\main\\res\\layout\\view_login.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\LoginDialogScroll\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_head.xml",
+        "source": "F:\\GitHub\\LoginDialogScroll\\app\\src\\main\\res\\layout\\main_head.xml"
+    }
+]

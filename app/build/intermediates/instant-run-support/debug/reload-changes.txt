@@ -1,0 +1,8 @@
+CHANGED,F:\GitHub\LoginDialogScroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\logindialog\R$string$override.class
+CHANGED,F:\GitHub\LoginDialogScroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\logindialog\R$drawable$override.class
+CHANGED,F:\GitHub\LoginDialogScroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,F:\GitHub\LoginDialogScroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\logindialog\R$override.class
+CHANGED,F:\GitHub\LoginDialogScroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\logindialog\R$menu$override.class
+CHANGED,F:\GitHub\LoginDialogScroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\logindialog\R$layout$override.class
+CHANGED,F:\GitHub\LoginDialogScroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\logindialog\R$style$override.class
+CHANGED,F:\GitHub\LoginDialogScroll\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\logindialog\R$id$override.class
